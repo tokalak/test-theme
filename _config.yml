@@ -16,7 +16,11 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a software developer. Writing on technical topics of interest.
+Ahmet Tokalak<br>
+Senior Software Developer<br>
+
+<em>This</em> is my personal blog where I document my journey as a full stack developer and publish articles about technical topics I'm passionate about:
+programming languages (mostly Java, but not limited to), software development, software architecture, AI, DevOps ...
 twitter_username: username
 github_username: tokalak
 minimal_mistakes_skin: dark
