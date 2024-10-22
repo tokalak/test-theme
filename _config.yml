@@ -60,32 +60,17 @@ plugins:
 author:
   name   : "Ahmet Tokalak"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "**Senior Software Developer**<br><br>This is my personal blog where I document my journey as a full stack developer and publish articles about technical topics I'm passionate about. Mainly about programming languages, software development, software architecture, AI and DevOps."
+  bio    : "**Senior Software Engineer**<br><br>This is my personal blog where I document my journey as a full stack developer and publish articles about technical topics I'm passionate about. Mainly about programming languages, software development, software architecture, AI and DevOps."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/tokalak"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/tokalak"
 
 defaults:
   # _posts
