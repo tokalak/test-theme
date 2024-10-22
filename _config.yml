@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ahmet Tokalak"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "**Senior Software Developer**<br><br>This is my personal blog where I document my journey as a full stack developer and publish articles about technical topics I'm passionate about. Mainly about programming languages, software development, software architecture, AI, DevOps ..."
+  bio    : "**Senior Software Developer**<br><br>This is my personal blog where I document my journey as a full stack developer and publish articles about technical topics I'm passionate about. Mainly about programming languages, software development, software architecture, AI and DevOps."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -96,8 +96,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
